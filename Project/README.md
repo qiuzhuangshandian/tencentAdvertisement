@@ -1,6 +1,4 @@
-# Ready Player One
 
-authors：张海恩，温志煌，许康　　time：2018-6-15
 
 ## 欢迎阅读
 
